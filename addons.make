@@ -1,0 +1,8 @@
+ofxCv
+ofxGui
+ofxKinectV2
+ofxNetwork
+ofxOpenCv
+ofxParagraph
+ofxSmartFont
+ofxTrueTypeFontUC
