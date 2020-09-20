@@ -2,6 +2,7 @@
 V0_4. Shadow Showdown for Foxton Center. Created in of_v0.9.8_osx_release 07.11.2017
 
 Hardware
+
 Kinect V2
 An upgrade from the original Kinect meant we could target a better resolution, wider play area and higher framerate, helping create an overall better experience for players.
 
